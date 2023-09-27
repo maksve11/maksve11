@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm maksvell</h1>
-<h3 align="center">Java Backend Developer, Big Data Specialist</h3>
 
 # 💫 About Me: Java Backend Developer, Big Data Specialist
 <br><br>- 👨‍💻 All of my projects are available at [https://github.com/maksve11?tab=repositories](https://github.com/maksve11?tab=repositories)<br><br>- 💬 Ask me about Java, ML<br><br>- 📫 How to reach me https://t.me/maksve1l<br><br>- ⚡ Fun fact student of ITMO University, kind person, the best teacher
