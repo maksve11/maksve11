@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm maksvell</h1>
-
-# <h2 align="center">💫 About Me: Data Scientist</h2>
+<h2 align="center">💫 About Me: Data Scientist</h2>
 <br><br>- 👨‍💻 All of my projects are available at [https://github.com/maksve11?tab=repositories](https://github.com/maksve11?tab=repositories)<br><br>- 💬 Ask me about ML<br><br>- 📫 How to reach me https://t.me/maksve1l<br><br>- ⚡ Fun facts: student of ITMO University, kind person, the best teacher
 
 
