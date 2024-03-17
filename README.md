@@ -7,18 +7,12 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<br><br>- 
-• My skills include web application development and data analysis using modern technologies.
-<br><br>- 
-• Backend development in Java, Node.js, Python (Project)
-<br><br>- 
-• Frameworks: Spring Boot, Spring Core, Express.js, PySpark, Django, Flask, FastApi, Docker, Sequalize, Swagger, Migration(FlyWay), Requests, PyTest, UnitTest, NestJs;
-<br><br>- 
-• Databases: MongoDB, SQL, Reddis;
-<br><br>- 
-• Work with XGBoost, LSTM, BERT, LSTM, ARIMA, NLP, T5, Llama, Neo-j, pandas, scikit-learn, tensor-flow, nltk, re, numpy, deepcopy, keras, livelossplot, numpy, matlpotlib;
-<br><br>- 
-• Building Dashboards: Tableau, Power BI, Sisense
+<br><br>• My skills include web application development and data analysis using modern technologies.
+<br><br>•  Backend development in Java, Node.js, Python (Project)
+<br><br>• Frameworks: Spring Boot, Spring Core, Express.js, PySpark, Django, Flask, FastApi, Docker, Sequalize, Swagger, Migration(FlyWay), Requests, PyTest, UnitTest, NestJs;
+<br><br>• Databases: MongoDB, SQL, Reddis;
+<br><br>• Work with XGBoost, LSTM, BERT, LSTM, ARIMA, NLP, T5, Llama, Neo-j, pandas, scikit-learn, tensor-flow, nltk, re, numpy, deepcopy, keras, livelossplot, numpy, matlpotlib;
+<br><br>• Building Dashboards: Tableau, Power BI, Sisense
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=maksve11&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
