@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm maksvell</h1>
 <p
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F71313&random=false&width=435&lines=Machine+Learning+developer;5%2B+years+of+programming+%3A);Python%2C+Java%2C+JS%2C+C%2B%2B%2C+Haskell" alt="Typing SVG" /></a>
-<h2 align="center">💫 About Me: Data Scientist, Backend Developer</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F71313&center=true&random=false&width=450&lines=Machine+Learning+developer;5%2B+years+of+programming+%3A);Python%2C+Java%2C+JS%2C+C%2B%2B%2C+Haskell" alt="Typing SVG" /></a>
 </p>
-<br><br>- 👨‍💻 All of my projects are available at [https://github.com/maksve11?tab=repositories](https://github.com/maksve11?tab=repositories)<br><br>- 💬 Ask me about ML<br><br>- 📫 How to reach me https://t.me/maksve1l<br><br>- ⚡ Fun facts: student of ITMO University, kind person, the best teacher
+<br><br>- 👨‍💻 All of my projects are available at my repositories<br><br>- 💬 Ask me about ML<br><br>- 📫 How to reach me https://t.me/maksve1l<br><br>- ⚡ Fun facts: student of ITMO University, the best teacher, have my web-site: Wine-Store
 
 
 # 💻 Tech Stack:
