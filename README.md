@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm maksvell</h1>
-<p
+<p align="center"
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F71313&center=true&random=false&width=450&lines=Machine+Learning+developer;5%2B+years+of+programming+%3A);Python%2C+Java%2C+JS%2C+C%2B%2B%2C+Haskell" alt="Typing SVG" /></a>
 </p>
+<h2 align="center">💫 About Me: Data Scientist, Backend Developer</h2>
 <br><br>- 👨‍💻 All of my projects are available at my repositories<br><br>- 💬 Ask me about ML<br><br>- 📫 How to reach me https://t.me/maksve1l<br><br>- ⚡ Fun facts: student of ITMO University, the best teacher, have my web-site: Wine-Store
 
 
